@@ -4,7 +4,7 @@ Course exclusive project from [React Projects](https://react-projects.netlify.ap
 
 ## Link
 
--
+- [Project URL](https://random-person-generator-react.netlify.app) (hosted on Netlify)
 
 ## Screenshots
 
