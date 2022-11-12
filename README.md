@@ -6,7 +6,9 @@ Course exclusive project from [React Projects](https://react-projects.netlify.ap
 
 - [Project URL](https://random-person-generator-react.netlify.app) (hosted on Netlify)
 
-## Screenshots
+## Screenshot
+
+<img src="./screenshots/random-person-generator-preview.png" alt="Random person generator website preview" width="650px">
 
 ## Project
 
